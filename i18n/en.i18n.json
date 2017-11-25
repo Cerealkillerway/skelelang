@@ -17,8 +17,6 @@
     "menu_times": "Times",
     "menu_settings": "Settings",
 
-    "publish_title": "Publish options",
-    "menuItem_title": "Menu item",
     "permissionDenied_title": "Permesso negato",
 
     "monthsFull_labels": "January February March April May June July August September October November December",
@@ -298,6 +296,8 @@
     "waiting_lbl": "waiting for connection",
     "offline_lbl": "connection interrupted",
     "published_lbl": "Published",
+    "publish_lbl": "Publish options",
+    "menuItem_lbl": "Menu item",
     "section_lbl": "Section",
     "menu_lbl": "Assign to menu",
     "menuName_lbl": "Menu item name",
@@ -317,7 +317,7 @@
     "allowDebug_lbl": "Allow",
     "mainFunctions_lbl": "Main functions:",
     "actions_lbl": "Actions",
-    "changePasswordTitle_lbl": "Change password for:",
+    "changePasswordTitle_lbl": "Change password for",
     "undoDelete_lbl": "Confirm in",
     "none_lbl": "(none)",
     "yes_lbl": "Yes",
@@ -326,7 +326,7 @@
     "it_lbl": "Italian",
     "en_lbl": "English",
     "fr_lbl": "French",
-    "publicSettingsIntroText_lbl": "This is the application's general public configuration.<br><b>Attention:</b> editing this configuration may change the application's behavior.",
+    "publicSettingsIntroText_lbl": "This is the application's general public configuration.<br><b>Attention</b> editing this configuration may change the application's behavior.",
     "policyBar_lbl": "Policy bar",
     "displayAlways_lbl": "Display always",
     "applicationDetails_lbl": "Application details",
@@ -363,11 +363,11 @@
     "superuser_role": "Super user",
     "superuserLong_role": "Superutente dal divino potere",
 
-    "dataTable_search": "Search in table:",
+    "dataTable_search": "Search in table",
     "dataTable_lengthMenu": "Show _MENU_ rows",
 
-    "imageUploadTitle_modal": "Image upload:",
-    "videoEmbeed_modal": "Embeed video:",
+    "imageUploadTitle_modal": "Image upload",
+    "videoEmbeed_modal": "Embeed video",
 
     "welcome_msg": "Welcome",
     "version": "Version"

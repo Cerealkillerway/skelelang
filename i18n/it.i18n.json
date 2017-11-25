@@ -17,8 +17,6 @@
     "menu_times": "Orari",
     "menu_settings": "Configurazione",
 
-    "publish_title": "Pubblicazione",
-    "menuItem_title": "Voce di menu",
     "permissionDenied_title": "Permesso negato",
 
     "monthsFull_labels": "Gennaio Febbraio Marzo Aprile Maggio Giugno Luglio Agosto Settembre Ottobre Novembre Dicembre",
@@ -298,6 +296,8 @@
     "waiting_lbl": "in attesa di riconnessione",
     "offline_lbl": "connessione interrotta",
     "published_lbl": "Pubblicato",
+    "publish_lbl": "Pubblicazione",
+    "menuItem_lbl": "Voce di menu",
     "section_lbl": "Sezione",
     "menu_lbl": "Assegna al menu",
     "menuName_lbl": "Nome voce menu",
@@ -317,7 +317,7 @@
     "allowDebug_lbl": "Permetti",
     "mainFunctions_lbl": "Funzioni principali:",
     "actions_lbl": "Azioni",
-    "changePasswordTitle_lbl": "Cambio password per:",
+    "changePasswordTitle_lbl": "Cambio password per",
     "undoDelete_lbl": "Conferma entro",
     "none_lbl": "(nessuno/a)",
     "yes_lbl": "Sì",
@@ -326,7 +326,7 @@
     "it_lbl": "Italiano",
     "en_lbl": "Inglese",
     "fr_lbl": "Francese",
-    "publicSettingsIntroText_lbl": "Questa è la configurazione pubblica generale dell'applicazione.<br><b>Attenzione:</b> le modifiche possono alterare il comportamento dell'applicazione.",
+    "publicSettingsIntroText_lbl": "Questa è la configurazione pubblica generale dell'applicazione.<br><b>Attenzione</b> le modifiche possono alterare il comportamento dell'applicazione.",
     "policyBar_lbl": "Barra policy",
     "displayAlways_lbl": "Mostra sempre",
     "applicationDetails_lbl": "Dettagli applicazione",
@@ -363,11 +363,11 @@
     "superuser_role": "Super utente",
     "superuserLong_role": "Superutente dal divino potere",
 
-    "dataTable_search": "Cerca nella tabella:",
+    "dataTable_search": "Cerca nella tabella",
     "dataTable_lengthMenu": "Mostra _MENU_ righe",
 
-    "imageUploadTitle_modal": "Inserimento immagine:",
-    "videoEmbeed_modal": "Incorpora video:",
+    "imageUploadTitle_modal": "Inserimento immagine",
+    "videoEmbeed_modal": "Incorpora video",
 
     "welcome_msg": "Benvenuto",
     "version": "Versione"
