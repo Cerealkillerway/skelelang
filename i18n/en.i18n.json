@@ -157,6 +157,7 @@
     "incorrectPassword_error": "Wrong password",
     "accessDenied_error": "Access denied",
     "permissions_error": "You don't have the required authorization to perform this operation",
+    "minReplicaCopies_error": "Cannot be less",
 
     "ok_btn": "Ok",
     "save_btn": "Save",

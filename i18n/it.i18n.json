@@ -157,6 +157,7 @@
     "incorrectPassword_error": "Passwrod errata",
     "accessDenied_error": "Accesso negato",
     "permissions_error": "Non si dispone dell'autorizzazione necessaria per questa operazione",
+    "minReplicaCopies_error": "Non può essercene di meno",
 
     "ok_btn": "Ok",
     "save_btn": "Salva",
