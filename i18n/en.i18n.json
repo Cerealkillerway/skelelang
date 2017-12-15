@@ -361,6 +361,9 @@
     "langEnableEn_lbl": "English",
     "lsPolicyBarDisplayAlways_lbl": "Always show",
     "consoleLogger_lbl": "Console logger",
+    "profileRoles_lbl": "Roles",
+    "profileName_lbl": "Real name",
+    "profileTelephone_lbl": "Telephone",
 
     "administrator_role": "Administrator",
     "administratorLong_role": "System Administrator",
