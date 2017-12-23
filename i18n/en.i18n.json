@@ -364,6 +364,7 @@
     "profileRoles_lbl": "Roles",
     "profileName_lbl": "Real name",
     "profileTelephone_lbl": "Telephone",
+    "controlPanel_lbl": "Control panel",
 
     "administrator_role": "Administrator",
     "administratorLong_role": "System Administrator",
