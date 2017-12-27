@@ -158,6 +158,7 @@
     "accessDenied_error": "Accesso negato",
     "permissions_error": "Non si dispone dell'autorizzazione necessaria per questa operazione",
     "minReplicaCopies_error": "Richiesto almeno %s",
+    "invalidImage_error": "Tipo di file non valido",
 
     "ok_btn": "Ok",
     "save_btn": "Salva",
