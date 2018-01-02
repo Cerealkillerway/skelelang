@@ -103,7 +103,7 @@
     "currentLangNewsWarning_text": "ATTENZIONE:<br>In questa pagina vengono mostrare solo le news nella lingua corrente",
     "superUserRole_text": "<b>I poteri del super utente</b> <ul><li>invincibilità - ottiene sempre l'accesso ad ogni sezione dell'applicazione. Passa sempre qualsiasi controllo di sicurezza</li><li>indistruttibilità - è un ruolo non modificabile e non eliminabile</li><li>peristenza sempiterna - deve sempre esserci almeno un super utente, altrimenti alcune funzioni dell'applicazione potrebbero diventare inaccessibili</li></ul><i>Fenomenali poteri cosmici... In un minuscolo vettore di memoria...</i>",
     "contentDescription_text": "Definisce i permessi per la gestione di contenuti, sezioni e menu<br><b>Attenzione:</b> la modifica di questi permessi può rendere non accessibili i contenuti sul sito",
-    "aclDescription_text": "Definisce i permessi per la gestione di utenti e ruoli<br>Indipendentemente dai permessi impostati, i document relativi all'utente corrente ed ai suoi ruoli saranno comunque sempre accessibli in lettura",
+    "aclDescription_text": "Definisce i permessi per la gestione di utenti e ruoli<br>Indipendentemente dai permessi impostati, i dati relativi all'utente corrente ed ai suoi ruoli saranno comunque sempre accessibli in lettura",
     "mainFunctionsDescription_text": "<b>Attenzione:</b> la modifica di questi permessi può escludere il gruppo di utenti dall'uso del pannello di amministrazione",
 
     "usersListTitle_text": "Gestione utenti",

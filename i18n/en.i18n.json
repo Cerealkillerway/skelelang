@@ -103,7 +103,7 @@
     "currentLangNewsWarning_text": "ATTENTION:<br>This page will show only the news in the currently selected language",
     "superUserRole_text": "<b>The super user powers</b> <ul><li>invincibility - always gain access to every section of the application. Always pass any security check</li><li>indestructibility - this role is not editable nor deletable</li><li>eternal persistence - there must always be at least one super user otherwise some parts of the application may result inaccessible</li></ul><i>Phenomenal cosmic powers... In a tiny memory array...</i>",
     "contentDescription_text": "Defines the permissions for contents, sections and menus management<br><b>Attention:</b> edit these permissions can make some parts of the website unavailable to users",
-    "aclDescription_text": "Defines the permissions for users and roles<br>independently from the setted permissions, the documents relatives to the current user and its roles will always be available in reading",
+    "aclDescription_text": "Defines the permissions for users and roles<br>independently from the setted permissions, the data relatives to the current user and its roles will always be available in reading",
     "mainFunctionsDescription_text": "<b>Attention:</b> editing these permissions can exclude the users group from the use of the administration panel",
 
     "usersListTitle_text": "Users management",
