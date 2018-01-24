@@ -31,6 +31,7 @@
     "delete_btn": "Elimina",
     "changePassword_btn": "Cambio password",
     "settings_btn": "Configurazione",
+    "applicationData_btn": "Dati applicazione",
 
     "openWebsite_tooltip": "Apri il sito in una nuova scheda",
     "users_tooltip": "Vai alla gestione utenti",
@@ -50,5 +51,6 @@
     "disconnect_tooltip": "Disconnetti",
     "setAutohide_tooltip": "Nascondi automaticamente",
     "setFixedMode_tooltip": "Sempre in primo piano",
-    "settings_tooltip": "Vai alla configurazione App"
+    "settings_tooltip": "Vai alla configurazione App",
+    "applicationData_tooltip": "Vai alla gestione dati applicazione"
 }

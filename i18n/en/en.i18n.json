@@ -82,6 +82,7 @@
     "unauthorized_text": "You are not authorized to see this resource!",
     "configButtons_text": "App configuration",
     "updateSetting_text": "Update configuration",
+    "updateApplicationData_text": "Update application data",
 
     "usernameMail_lbl": "Username or email",
     "password_lbl": "Password",
