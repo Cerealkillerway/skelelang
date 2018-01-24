@@ -19,7 +19,16 @@ Package.onUse(function(api) {
 
       // i18n
     api.addFiles([
-        'i18n/en.i18n.json',
-        'i18n/it.i18n.json'
+        'i18n/en/en.i18n.json',
+        'i18n/en/errors.en.i18n.json',
+        'i18n/en/menu.en.i18n.json',
+        'i18n/en/date.en.i18n.json',
+        'i18n/en/buttons-tooltips.en.i18n.json',
+
+        'i18n/it/it.i18n.json',
+        'i18n/it/errors.it.i18n.json',
+        'i18n/it/menu.it.i18n.json',
+        'i18n/it/date.it.i18n.json',
+        'i18n/it/buttons-tooltips.it.i18n.json'
     ], ['client', 'server']);
 });
