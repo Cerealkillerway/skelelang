@@ -24,11 +24,15 @@ Package.onUse(function(api) {
         'i18n/en/menu.en.i18n.json',
         'i18n/en/date.en.i18n.json',
         'i18n/en/buttons-tooltips.en.i18n.json',
+        'i18n/en/messages.en.i18n.json',
+        'i18n/en/texts.en.i18n.json',
 
         'i18n/it/it.i18n.json',
         'i18n/it/errors.it.i18n.json',
         'i18n/it/menu.it.i18n.json',
         'i18n/it/date.it.i18n.json',
-        'i18n/it/buttons-tooltips.it.i18n.json'
+        'i18n/it/buttons-tooltips.it.i18n.json',
+        'i18n/it/messages.it.i18n.json',
+        'i18n/it/texts.it.i18n.json'
     ], ['client', 'server']);
 });
