@@ -1,0 +1,9 @@
+{
+  "name": "cerealkiller:skelelang",
+  "currentVersion": "1.3.57",
+  "versionPrefix": "v",
+  "filesList": [
+    "package.js:package",
+    "README.md"
+  ]
+}
