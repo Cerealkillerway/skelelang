@@ -7,9 +7,12 @@ Package.describe({
 });
 
 Package.onUse(function(api) {
+
+    api.versionsFrom('METEOR@1.6.1');
+    
     api.use([
         'mongo',
-        'blaze-html-templates',
+        'blaze-html-templates@1.1.2',
         'tap:i18n@1.8.2'
     ],
     ['client', 'server']);
