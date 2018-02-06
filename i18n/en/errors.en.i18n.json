@@ -48,6 +48,7 @@
     "accessDenied_error": "Access denied",
     "permissions_error": "You don't have the required authorization to perform this operation",
     "minReplicaCopies_error": "Minimum required: %s",
+    "maxReplicaCopies_error": "Maximum allowed: %s",
     "invalidImage_error": "Invalid file type",
     "unpublished_error": "<h3 class='subTitle'>Content unavailable</h3><p>We are sorry, the requested content is currently unavailable to the public.<br>Please try again later</p>"
 }

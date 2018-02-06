@@ -47,7 +47,8 @@
     "incorrectPassword_error": "Passwrod errata",
     "accessDenied_error": "Accesso negato",
     "permissions_error": "Non si dispone dell'autorizzazione necessaria per questa operazione",
-    "minReplicaCopies_error": "Richiesto almeno %s",
+    "minReplicaCopies_error": "Quantità minime: %s",
+    "maxReplicaCopies_error": "Quantità massima: %s",
     "invalidImage_error": "Tipo di file non valido",
     "unpublished_error": "<h3 class='subTitle'>Contenuto non disponibile</h3><p>Ci dispiace, il conenuto richiesto non è al momento disponibile al pubblico.<br>Ti preghiamo di riprovare in seguito</p>"
 }
