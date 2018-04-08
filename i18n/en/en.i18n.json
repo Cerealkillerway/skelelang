@@ -173,6 +173,8 @@
     "contentManagement_lbl": "content management",
     "aclManagement": "User and roles management",
     "configDebugManagement_lbl": "Configuration and debug management",
+    "placeholder_lbl": "Placeholder",
+    "placeholderItem_lbl": "Assign to placeholder",
 
     "administrator_role": "Administrator",
     "administratorLong_role": "System Administrator",

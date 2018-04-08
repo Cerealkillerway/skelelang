@@ -28,7 +28,7 @@
     "general_noEmpty_error": "Non puoi lasciarlo vuoto!",
     "invalidInsertTitle_error": "Inserimento non valido",
     "invalidInsertContent_error": "Hai immesso dei dati non validi...",
-    "inalidTextAreas_error": "Una o più aree di testo obbligatorie vuote o non valide!<br>(minimo 20 caratteri)",
+    "inalidTextAreas_error": "Una o più aree di testo obbligatorie vuote o non valide!",
     "missingUploads_error": "Non hai caricato dei files richiesti",
     "insert_error": "Inserimento non riuscito",
     "invalidSentData_error": "Dati inviati non validi<br>",

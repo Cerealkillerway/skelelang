@@ -28,7 +28,7 @@
     "general_noEmpty_error": "It is not possible to leave it empty!",
     "invalidInsertTitle_error": "Invalid insert",
     "invalidInsertContent_error": "Some of the provided values are invalid...",
-    "inalidTextAreas_error": "One or more required text areas are empty or invalid!<br>(minimum 20 characters)",
+    "inalidTextAreas_error": "One or more required text areas are empty or invalid!",
     "missingUploads_error": "The required uploads are missing",
     "insert_error": "Insert not completed",
     "invalidSentData_error": "Invalid sent data<br>",

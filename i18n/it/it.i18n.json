@@ -173,6 +173,8 @@
     "contentManagement_lbl": "Gestione contenuti",
     "aclManagement_lbl": "Gestione Utenti e ruoli",
     "configDebugManagement_lbl": "Gestione configurazione e debug",
+    "placeholder_lbl": "Segnaposto",
+    "placeholderItem_lbl": "Assegna al segnaposto",
 
     "administrator_role": "Amministratore",
     "administratorLong_role": "Amministratore di Sistema",
