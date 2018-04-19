@@ -32,6 +32,7 @@
     "changePassword_btn": "Change password",
     "settings_btn": "Configuration",
     "applicationData_btn": "Application data",
+    "resetPassword_btn": "Send password recovery email",
 
     "openWebsite_tooltip": "Open website in a new window",
     "users_tooltip": "Go to user management",

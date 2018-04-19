@@ -44,11 +44,14 @@
     "printDetail_error": "Non hai generato alcun codice da stampare!",
     "paperSize_error": "Le dimensioni del foglio non consentono la stampa delle etichette",
     "userNotFound_error": "Utente inesistente",
-    "incorrectPassword_error": "Passwrod errata",
+    "incorrectPassword_error": "Password errata",
     "accessDenied_error": "Accesso negato",
     "permissions_error": "Non si dispone dell'autorizzazione necessaria per questa operazione",
     "minReplicaCopies_error": "Quantità minime: %s",
     "maxReplicaCopies_error": "Quantità massima: %s",
     "invalidImage_error": "Tipo di file non valido",
+    "emailAlreadyUsed_error": "The email address is already in use",
+    "emailMissing_error": "Non hai inserito il nome utente o la mail",
+    "passwordMissing_error": "Non hai inserito la password",
     "unpublished_error": "<h3 class='subTitle'>Contenuto non disponibile</h3><p>Ci dispiace, il conenuto richiesto non è al momento disponibile al pubblico.<br>Ti preghiamo di riprovare in seguito</p>"
 }

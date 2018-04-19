@@ -50,5 +50,8 @@
     "minReplicaCopies_error": "Minimum required: %s",
     "maxReplicaCopies_error": "Maximum allowed: %s",
     "invalidImage_error": "Invalid file type",
+    "emailAlreadyUsed_error": "L'indirizzo email risulta già usato",
+    "emailMissing_error": "Email or username is missing",
+    "passwordMissing_error": "Password is missing",
     "unpublished_error": "<h3 class='subTitle'>Content unavailable</h3><p>We are sorry, the requested content is currently unavailable to the public.<br>Please try again later</p>"
 }
