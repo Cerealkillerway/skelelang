@@ -175,6 +175,9 @@
     "configDebugManagement_lbl": "Configuration and debug management",
     "placeholder_lbl": "Placeholder",
     "placeholderItem_lbl": "Assign to placeholder",
+    "availableTemplates_lbl": "Template",
+    "templatePositions_lbl": "Available positions",
+    "menuIcon_lbl": "Icon",
 
     "administrator_role": "Administrator",
     "administratorLong_role": "System Administrator",
