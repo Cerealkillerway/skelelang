@@ -7,35 +7,44 @@ Package.describe({
 });
 
 Package.onUse(function(api) {
+    // namespace
+    api.addFiles(['namespace.js'], ['client', 'server']);
 
     api.versionsFrom('METEOR@1.6.1');
-    
+
     api.use([
-        'mongo',
-        'blaze-html-templates@1.1.2',
-        'tap:i18n@1.8.2'
+        'blaze-html-templates@1.1.2'
+    ],
+    ['client']);
+
+    api.use([
+        'ecmascript',
+        'ostrio:i18n@3.1.0'
     ],
     ['client', 'server']);
 
-    // i18n settings
-    api.addFiles('package-tap.i18n', ['client', 'server']);
-
       // i18n
     api.addFiles([
-        'i18n/en/en.i18n.json',
-        'i18n/en/errors.en.i18n.json',
-        'i18n/en/menu.en.i18n.json',
-        'i18n/en/date.en.i18n.json',
-        'i18n/en/buttons-tooltips.en.i18n.json',
-        'i18n/en/messages.en.i18n.json',
-        'i18n/en/texts.en.i18n.json',
+        'i18n-config.js',
 
-        'i18n/it/it.i18n.json',
-        'i18n/it/errors.it.i18n.json',
-        'i18n/it/menu.it.i18n.json',
-        'i18n/it/date.it.i18n.json',
-        'i18n/it/buttons-tooltips.it.i18n.json',
-        'i18n/it/messages.it.i18n.json',
-        'i18n/it/texts.it.i18n.json'
+        'en/en-buttons-tooltips.js',
+        'en/en-date.js',
+        'en/en-errors.js',
+        'en/en-labels.js',
+        'en/en-menu.js',
+        'en/en-messages.js',
+        'en/en-texts.js',
+
+        'it/it-buttons-tooltips.js',
+        'it/it-date.js',
+        'it/it-errors.js',
+        'it/it-labels.js',
+        'it/it-menu.js',
+        'it/it-messages.js',
+        'it/it-texts.js'
     ], ['client', 'server']);
+
+
+    // exports
+    api.export(['Skelelang']);
 });
