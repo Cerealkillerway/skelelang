@@ -192,6 +192,7 @@ Skelelang.i18n.addl10n({
         "noAssociatedUser_lbl": "No associated user",
         "loadMore_lbl": "Load more...",
         "totalNumber_lbl": "Total number:",
+        "undefined_lbl": '(Undefined)',
 
         "editorBackgroundStyle_lbl": "Switch editor's background",
         "boldStyle_lbl": "Bold",
