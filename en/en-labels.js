@@ -193,6 +193,7 @@ Skelelang.i18n.addl10n({
         "loadMore_lbl": "Load more...",
         "totalNumber_lbl": "Total number:",
         "undefined_lbl": '(Undefined)',
+        "searchText_lbl": "to search for...",
 
         "editorBackgroundStyle_lbl": "Switch editor's background",
         "boldStyle_lbl": "Bold",
