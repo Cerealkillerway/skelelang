@@ -194,6 +194,8 @@ Skelelang.i18n.addl10n({
         "totalNumber_lbl": "Numero totale:",
         "undefined_lbl": "(Non definito)",
         "searchText_lbl": "da cercare...",
+        "associatedPages_lbl": "Pagine associate",
+        "time_lbl": "ora",
 
         "editorBackgroundStyle_lbl": "Alterna sfondo editor",
         "boldStyle_lbl": "Grassetto",
