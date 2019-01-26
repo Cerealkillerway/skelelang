@@ -196,6 +196,7 @@ Skelelang.i18n.addl10n({
         "searchText_lbl": "to search for...",
         "associatedPages_lbl": "Associated pages",
         "time_lbl": "time",
+        "empty_lbl": "empty",
 
         "editorBackgroundStyle_lbl": "Switch editor's background",
         "boldStyle_lbl": "Bold",

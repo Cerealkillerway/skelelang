@@ -52,6 +52,7 @@ Skelelang.i18n.addl10n({
         "unauthorized_text": "Non sei autorizzato a vedere questa risorsa!",
         "configButtons_text": "Configurazione App",
         "updateSetting_text": "Aggiornamento configurazione",
-        "updateApplicationData_text": "Aggiornamento dati applicazione"
+        "updateApplicationData_text": "Aggiornamento dati applicazione",
+        "noPagesForThisMenu_text": "(Nessuna pagina associata a questo menu)..."
     }
 });

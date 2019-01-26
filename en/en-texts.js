@@ -52,6 +52,7 @@ Skelelang.i18n.addl10n({
         "unauthorized_text": "You are not authorized to see this resource!",
         "configButtons_text": "App configuration",
         "updateSetting_text": "Update configuration",
-        "updateApplicationData_text": "Update application data"
+        "updateApplicationData_text": "Update application data",
+        "noPagesForThisMenu_text": "(No pages associated to this menu)..."
     }
 });
