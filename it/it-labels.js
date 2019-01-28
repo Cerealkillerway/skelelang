@@ -197,6 +197,13 @@ Skelelang.i18n.addl10n({
         "associatedPages_lbl": "Pagine associate",
         "time_lbl": "ora",
         "empty_lbl": "vuoto",
+        "medicalCertification_lbl": "Certificazione medica",
+        "medicalCertificate_lbl": "Certificato medico",
+        "medicalCertificateDeadline_lbl": "Scadenza certificato",
+        "fasiMembership_lbl": "Tessera F.A.S.I.",
+        "fasiMemberCard_lbl": "Tessera F.A.S.I.",
+        "fasiMemberCardNumber_lbl": "N° tessera",
+        "fasiMemberCardDeadline_lbl": "Scadenza",
 
         "editorBackgroundStyle_lbl": "Alterna sfondo editor",
         "boldStyle_lbl": "Grassetto",
