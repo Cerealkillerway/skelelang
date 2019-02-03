@@ -197,9 +197,6 @@ Skelelang.i18n.addl10n({
         "associatedPages_lbl": "Associated pages",
         "time_lbl": "time",
         "empty_lbl": "empty",
-        "medicalCertification_lbl": "Medical certification",
-        "medicalCertificate_lbl": "Medical certificate",
-        "medicalCertificateDeadline_lbl": "Certificate deadline",
 
         "editorBackgroundStyle_lbl": "Switch editor's background",
         "boldStyle_lbl": "Bold",
