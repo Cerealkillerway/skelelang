@@ -36,6 +36,7 @@ Skelelang.i18n.addl10n({
         "genericDelete_msg": "Eliminato correttamente",
         "passwordCanged_msg": "Password di {{username}} aggiornata",
         "loading_msg": "Caricamento in corso...",
-        "applicationLoading_msg": "Inizializzazione"
+        "applicationLoading_msg": "Inizializzazione",
+        "confirmAction_msg": "<p>Sei certo di voler procedere?</p>"
     }
 });

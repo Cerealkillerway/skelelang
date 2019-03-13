@@ -197,6 +197,7 @@ Skelelang.i18n.addl10n({
         "associatedPages_lbl": "Pagine associate",
         "time_lbl": "ora",
         "empty_lbl": "vuoto",
+        "confirmAction_lbl": "<h4>Conferma azione</h4>",
 
         "editorBackgroundStyle_lbl": "Alterna sfondo editor",
         "boldStyle_lbl": "Grassetto",
