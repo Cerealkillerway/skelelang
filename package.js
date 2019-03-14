@@ -1,6 +1,6 @@
 Package.describe({
   name: 'cerealkiller:skelelang',
-  version: '1.3.57',
+  version: '2.0.115',
   summary: '',
   git: '',
   documentation: 'README.md'
