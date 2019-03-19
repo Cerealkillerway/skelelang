@@ -198,6 +198,10 @@ Skelelang.i18n.addl10n({
         "time_lbl": "time",
         "empty_lbl": "empty",
         "confirmAction_lbl": "<h4>Confirm action</h4>",
+        "timeMachine_lbl": "Time machine",
+        "timeMachineUse_lbl": "Allow use",
+        "availableStates_lbl": "Available states",
+        "currentState_lbl": "Current state",
 
         "editorBackgroundStyle_lbl": "Switch editor's background",
         "boldStyle_lbl": "Bold",

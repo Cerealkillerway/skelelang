@@ -35,6 +35,7 @@ Skelelang.i18n.addl10n({
         "applicationData_btn": "Application data",
         "resetPassword_btn": "Send password recovery email",
         "find_btn": "Find",
+        "timeMachine_btn": "Time machine",
 
         "openWebsite_tooltip": "Open website in a new window",
         "users_tooltip": "Go to user management",
