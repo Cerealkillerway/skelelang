@@ -56,6 +56,7 @@ Skelelang.i18n.addl10n({
         "setAutohide_tooltip": "Autohide",
         "setFixedMode_tooltip": "Always on top",
         "settings_tooltip": "Go to App configuration",
-        "applicationData_tooltip": "Go to application data management"
+        "applicationData_tooltip": "Go to application data management",
+        "backToLatestStatus_tooltip": "Back to latest state"
     }
 });
