@@ -57,6 +57,7 @@ Skelelang.i18n.addl10n({
         "setFixedMode_tooltip": "Sempre in primo piano",
         "settings_tooltip": "Vai alla configurazione App",
         "applicationData_tooltip": "Vai alla gestione dati applicazione",
-        "backToLatestStatus_tooltip": "Torna all'ultimo stato"
+        "backToLatestStatus_tooltip": "Torna all'ultimo stato",
+        "deleteAllStates_tooltip": "Elimina tutti gli stati"
     }
 });

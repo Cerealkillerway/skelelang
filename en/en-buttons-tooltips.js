@@ -57,6 +57,7 @@ Skelelang.i18n.addl10n({
         "setFixedMode_tooltip": "Always on top",
         "settings_tooltip": "Go to App configuration",
         "applicationData_tooltip": "Go to application data management",
-        "backToLatestStatus_tooltip": "Back to latest state"
+        "backToLatestStatus_tooltip": "Back to latest state",
+        "deleteAllStates_tooltip": "Delete all states"
     }
 });
