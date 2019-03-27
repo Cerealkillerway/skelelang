@@ -1,27 +1,35 @@
 Package.describe({
   name: 'cerealkiller:skelelang',
-  version: '2.0.115',
-  summary: '',
+  version: '5.0.0',
+  summary: 'base i18n strings and configuration for skeletor',
   git: '',
   documentation: 'README.md'
 });
 
 Package.onUse(function(api) {
     // namespace
-    api.addFiles(['namespace.js'], ['client', 'server']);
+    api.addFiles([
+        'namespace.js'
+    ],
+    ['client', 'server']);
+
 
     api.versionsFrom('METEOR@1.8.0.2');
+
 
     api.use([
         'blaze-html-templates@1.1.2'
     ],
     ['client']);
 
+
+    // dependencies
     api.use([
         'ecmascript',
         'ostrio:i18n@3.1.0'
     ],
     ['client', 'server']);
+
 
       // i18n
     api.addFiles([

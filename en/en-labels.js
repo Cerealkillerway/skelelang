@@ -13,6 +13,7 @@ Skelelang.i18n.addl10n({
         "roles_lbl": "Roles",
         "delete_lbl": "Delete?",
         "userEmail_lbl": "Email",
+        "associatedEmails_lbl": "E-mail associate",
         "cellular_lbl": "Mobile phone",
         "old_lbl": "Old",
         "new_lbl": "New",
